@@ -123,6 +123,12 @@ form{
 	top: -5px;
 	font-size: 15px;
 }
+.fa-user{
+	color:#38d39f;
+}
+.fa-lock{
+	color:#38d39f;
+}
 
 .input-div.focus > .i > i{
 	color: #38d39f;
